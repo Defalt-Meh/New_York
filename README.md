@@ -51,6 +51,7 @@ Because:
 ## Installation
 > If you can’t handle a virtual-env, I can’t help you.
 
+```bash
 git clone https://github.com/your-handle/Manhattan-Crime-Dashboard.git
 cd Manhattan-Crime-Dashboard
 python -m venv venv

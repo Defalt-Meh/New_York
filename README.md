@@ -77,8 +77,8 @@ Then aim your browser at http://127.0.0.1:8050/ and marvel at the dots.
 │   ├── raw/                # untouched CSV from NYC Open Data
 │   └── cleaned_parquet/    # column-typed, de-duplicated, index-friendly data
 ├── scripts/
-│   ├── 01_clean_dataset.py
-│   └── 02_generate_tiles.py
+│   ├── 01_clean_dataset
+│   └── 02_generate_tiles
 ├── dashboards/             # future multi-page layouts live here
 └── tests/                  # pytest lives here; run them before PRs
 

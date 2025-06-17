@@ -53,3 +53,8 @@ Because:
 git clone https://github.com/your-handle/Manhattan-Crime-Dashboard.git
 cd Manhattan-Crime-Dashboard
 npm install          # or pnpm / yarn—pick your poison
+
+
+
+
+NOTE TO SELF: Make it responsive

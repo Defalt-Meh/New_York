@@ -51,7 +51,6 @@ Because:
 ## Installation
 > If you can’t handle a virtual-env, I can’t help you.
 
-```bash
 git clone https://github.com/your-handle/Manhattan-Crime-Dashboard.git
 cd Manhattan-Crime-Dashboard
 python -m venv venv
@@ -61,7 +60,6 @@ pip install -r requirements.txt
 
 ## Usage
 
-```bash
 # 1. Ingest & preprocess raw CSV (creates cleaned_parquet/)
 python scripts/01_clean_dataset.py --input data/raw/NYPD_Complaint_Data.csv
 
